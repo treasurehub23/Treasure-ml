@@ -1,6 +1,6 @@
-# 📦 Streamlit App Starter Kit 
+# Machine learning app
 ```
-⬆️ (Replace above with your app's name)
+This app predicts your credit worthiness
 ```
 
 Description of the app ...
